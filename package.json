@@ -1,7 +1,6 @@
 {
   "name": "wtf-npm",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,10 @@
   "license": "ISC",
   "optionalDependencies": {
     "lodash": "^4.17.15"
-  }
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {},
+  "description": ""
 }
