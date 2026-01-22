@@ -9,10 +9,10 @@
   "author": "",
   "license": "ISC",
   "optionalDependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
   },
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
   },
   "devDependencies": {},
   "description": ""
